@@ -1,0 +1,7 @@
+LoremMan;;Hello, I am the lorem man and here to meet you!
+Traveller;;Yes, it seems i have woken up from my deep slumber.
+Traveller;;Why is it you wanted to see me?
+LoremMan;;A great treasure, no the greates treasure of all time has gone missing. And you will be the one the only to find it
+LoremMan;;If you are to not find the treasure, may god help all whom are subject to that which will happen. Farewell traveler.
+Traveller;;Farewell.
+Wave;;i use the character ;)
